@@ -58,7 +58,6 @@ module.exports = {
   },
 
   StylusDependencies: {
-    'node-stylus': '*',
     'stylus-loader': '*'
   },
 
